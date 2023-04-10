@@ -1,0 +1,37 @@
+.ndtrai{
+    display: flex;  
+}
+.ndtrai ul{
+    list-style: none;
+}
+.ndtrai ul li {
+    color: white;
+}
+.logo ul{
+    list-style: none;
+}
+.logo ul li a{
+    color: white;
+}
+.ndphai{
+    display: flex;
+}
+.tong{
+    display: flex;
+    background: gray;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+.ndphai{
+    margin-left: 50%;
+}
+.ndphai ul{
+    list-style: none;
+}
+.ndphai ul li a{
+    text-decoration: none;
+    color: white;
+}
+.navbar{
+    background-color: green;
+}
